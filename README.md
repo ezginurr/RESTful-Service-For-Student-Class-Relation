@@ -1,4 +1,4 @@
-# RESTful Service For Student-Class Relation
+# RESTful Service for Student-Class Relation
 ___
 ### Spring Boot - JPA - H2 - One to Many
 
