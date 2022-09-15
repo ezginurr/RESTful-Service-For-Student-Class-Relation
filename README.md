@@ -3,6 +3,5 @@ ___
 ### Spring Boot - JPA - H2 - One to Many
 
 ---
-This project provides to add new class, add student to the class, get the list of all classes and get list of students of the class.
+This project provides to add new classes, add students to the class, get the list of all classes and get the list of students in a class.
 ___
-
